@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-printf("love");
+printf("love.\n");
+printf("git is good\n");
 return 0;
 }
